@@ -12,9 +12,8 @@ const Hero = () => (
   <Section row nopadding>
     <LeftSection>
       <SectionTitle main center>
-        Hello there, <br />
         Welcome to my <br />
-        web dev portfolio page
+        developer portfolio
       </SectionTitle>
       <SectionText>
         As a MERN stack developer with years of experience, my mission is to
